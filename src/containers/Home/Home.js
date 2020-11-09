@@ -125,7 +125,7 @@ class Home extends Component{
                 {superheroList}
             </div>
             {/* <button onClick={this.loadSuperheroList} className="LoadButton">Load New</button> */}
-            <span className="load">Click Kapow Load More</span>
+            <span className="load">Click Kapow To Load More</span>
             <Button clicked={this.loadSuperheroList} loading={this.state.superheroData === null? true:false}/>
             
             <br/>

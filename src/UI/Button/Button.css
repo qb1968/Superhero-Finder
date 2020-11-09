@@ -144,3 +144,11 @@
       padding: 5px;
   }
 }
+
+@media(max-width:500px){
+  img{
+    display:flex;
+    justify-content: center;
+    width:100%
+  }
+}
