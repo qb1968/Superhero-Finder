@@ -99,21 +99,23 @@
 @media (max-width: 500px){
     .Home > h1>a{
         display: flex;
-        margin-left: 2.5rem;
+       
         font-size: 3rem;
         
         
     }
 }
 
+
 .load{
     display:flex;
     justify-content: center;
-    font-size: 2rem;
+    font-size: 3rem;
     color: #ae25c0;
     padding:1rem;
     margin-right: 90px;
-    font: 60px"permanent marker";
+    font-family: "permanent marker";
+
     text-shadow: 6px 6px 6px black;
    
     
